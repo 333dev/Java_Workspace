@@ -7,7 +7,7 @@ public class Number_Check {
 		int Number = 6;
 		
 		
-		if (Number % 2 == 0) {
+		if (Number) {
 			
 			System.out.println ("Number Is Positive") ;
 		}
